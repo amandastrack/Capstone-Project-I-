@@ -1,2 +1,2 @@
 # Capstone-Project-I-
-Playlist Creating Using Spotify Audio Features
+Playlist Creation Using Spotify Audio Features
