@@ -15,9 +15,9 @@ The data is extracted from the Spotify Web API (https://api.spotify.com). From t
 
 ### Deliverables ###
 1. Code
-  i. [Data Wrangling](https://github.com/amandastrack/Capstone-Project-I-/blob/master/data_wrangling_capstone_I.ipynb "Data Wrangling")
-  ii. [Data Storytelling] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/data_storytelling_capstone_I.ipynb "Data Storytelling")
-  iii. [Inferential Statistics] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/inferential_statistics_capstone_I_.ipynb "Inferential Statistics")
-  iiii. [Machine Learning] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/machine_learning_modeling_capstone_I_.ipynb "Machine Learning")
+  1. [Data Wrangling](https://github.com/amandastrack/Capstone-Project-I-/blob/master/data_wrangling_capstone_I.ipynb "Data Wrangling")
+  2. [Data Storytelling] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/data_storytelling_capstone_I.ipynb "Data Storytelling")
+  3. [Inferential Statistics] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/inferential_statistics_capstone_I_.ipynb "Inferential Statistics")
+  4. [Machine Learning] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/machine_learning_modeling_capstone_I_.ipynb "Machine Learning")
 2. [Final Report] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/final_report_capstone_I.pdf "Final Report")
 3. [Final Presentation Slides] (https://github.com/amandastrack/Capstone-Project-I-/blob/master/slide_deck_capstone_I.pdf "Final Presentation Slides")
